@@ -1,0 +1,10 @@
+A Git repository is a version-controlled area to hold project files.
+It keeps track of file changes over time so you can revert or compare versions.
+Repositories may be local (on your machine) or remote (on sites such as GitHub).
+You can make a repository with the command git init.
+Changes to files are tracked as commits within the repository.
+Git supports branching, making different versions of your project.
+Branches may then be integrated back into the main project later.
+Remote repositories facilitate collaboration using pushing and pulling changes.
+Git repositories are required for code management and team collaboration.
+They store a precise record of project modifications, enhancing workflow.
